@@ -26,13 +26,13 @@ const PricingCard = ({ price }) => {
           <div className="flex-row justify-between space-y-3">
             <h2 className="text-3xl font-bold">{price.priceTitle}</h2>
 
-            <span className={`text-base ${price.mostPopular ? 'text-purple-100' : 'text-gray-500'}`}>{price.smallDescription}</span>
+            <span className={`text-base ${price.mostPopular ? 'text-white' : 'text-gray-500'}`}>{price.smallDescription}</span>
           </div>
 
           <div className="flex justify-between items-center space-y-3">
             <h2 className="text-3xl font-bold">{price.monthlyPrice}</h2>
 
-            <p className={`text-xl ${price.mostPopular ? 'text-purple-100' : 'text-gray-500'}`}>/Month</p>
+            <p className={`text-xl ${price.mostPopular ? 'text-white' : 'text-gray-500'}`}>/Month</p>
           </div>
 
           <ul className="mt-6 flex flex-col gap-2 text-md">
