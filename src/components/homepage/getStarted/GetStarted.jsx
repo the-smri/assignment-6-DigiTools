@@ -7,7 +7,7 @@ const GetStarted = ({promiseStep}) => {
   const steps= use(promiseStep);
   // console.log(promiseStep)
   return (
-    <div className="bg-[#F9FAFC] my-18">
+    <div id="features" className="bg-[#F9FAFC] my-18 scroll-mt-24">
       <div className="container mx-auto py-8">
         <div className="text-center space-y-4">
           <h2 className="text-4xl">Get Started In 3 Steps</h2>

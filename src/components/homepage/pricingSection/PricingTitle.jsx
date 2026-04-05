@@ -7,7 +7,7 @@ const PricingTitle = ({promisePricing}) => {
   // console.log(pricingData)
   return (
     
-    <div>
+    <div id="pricing" className="scroll-mt-24">
       <div className="container mx-auto mt-18">
         <div className="text-center space-y-4">
           <h2 className="text-4xl">Simple, Transparent Pricing</h2>

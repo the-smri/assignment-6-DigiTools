@@ -29,21 +29,21 @@ const Navbar = ({ cart }) => {
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
             >
               <li>
-                <a className="hover:bg-[#9514FA] hover:text-white">Products</a>
+                <a href="#products" className="hover:bg-[#9514FA] hover:text-white">Products</a>
               </li>
               <li>
-                <a className="hover:bg-[#9514FA] hover:text-white">Features</a>
+                <a href="#features" className="hover:bg-[#9514FA] hover:text-white">Features</a>
               </li>
               <li>
-                <a className="hover:bg-[#9514FA] hover:text-white">Pricing</a>
+                <a href="#pricing" className="hover:bg-[#9514FA] hover:text-white">Pricing</a>
               </li>
               <li>
-                <a className="hover:bg-[#9514FA] hover:text-white">
+                <a href="#testimonials" className="hover:bg-[#9514FA] hover:text-white">
                   Testimonials
                 </a>
               </li>
               <li>
-                <a className="hover:bg-[#9514FA] hover:text-white">FAQ</a>
+                <a href="#faq" className="hover:bg-[#9514FA] hover:text-white">FAQ</a>
               </li>
             </ul>
           </div>
@@ -54,21 +54,21 @@ const Navbar = ({ cart }) => {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
             <li>
-              <a className="hover:bg-[#9514FA] hover:text-white">Products</a>
+              <a href="#products" className="hover:bg-[#9514FA] hover:text-white">Products</a>
             </li>
             <li>
-              <a className="hover:bg-[#9514FA] hover:text-white">Features</a>
+              <a href="#features" className="hover:bg-[#9514FA] hover:text-white">Features</a>
             </li>
             <li>
-              <a className="hover:bg-[#9514FA] hover:text-white">Pricing</a>
+              <a href="#pricing" className="hover:bg-[#9514FA] hover:text-white">Pricing</a>
             </li>
             <li>
-              <a className="hover:bg-[#9514FA] hover:text-white">
+              <a href="#testimonials" className="hover:bg-[#9514FA] hover:text-white">
                 Testimonials
               </a>
             </li>
             <li>
-              <a className="hover:bg-[#9514FA] hover:text-white">FAQ</a>
+              <a href="#faq" className="hover:bg-[#9514FA] hover:text-white">FAQ</a>
             </li>
           </ul>
         </div>
