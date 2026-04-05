@@ -13,7 +13,7 @@ const PremiumTitle = ({promiseData, cart, setCart}) => {
   
   
   return (
-    <div className="container mx-auto my-16 space-y-5 ">
+    <div id="products" className="container mx-auto my-16 space-y-5 scroll-mt-24">
       <div className="text-center space-y-3">
         <h2 className="text-4xl">Premium Digital Tools</h2>
         <p className="text-gray-400 text-base">

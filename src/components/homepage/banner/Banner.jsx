@@ -30,7 +30,7 @@ const Banner = () => {
 
           {/* Buttons */}
           <div className="flex flex-col sm:flex-row justify-start items-center gap-4 pt-2">
-            <a className="w-full sm:w-auto px-8 py-3.5 bg-[#7B39FF] text-white font-semibold rounded-full hover:opacity-90 transition text-center cursor-pointer">
+            <a href="#products" className="w-full sm:w-auto px-8 py-3.5 bg-[#7B39FF] text-white font-semibold rounded-full hover:opacity-90 transition text-center cursor-pointer">
               Explore Products
             </a>
             <button className="w-full sm:w-auto px-8 py-3.5 border border-[#7B39FF] text-[#7B39FF] font-semibold rounded-full flex items-center justify-center gap-2 hover:bg-[#F8F5FF] transition">
