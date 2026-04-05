@@ -18,7 +18,7 @@ const Banner = () => {
           </div>
 
           {/* Title */}
-          <h2 className="text-5xl lg:text-[72px] font-extrabold text-[#1B2135] leading-tight">
+          <h2 className="text-4xl lg:text-[56px] font-extrabold text-[#1B2135] xl:whitespace-nowrap leading-[1.1]">
             Supercharge Your <br className="hidden lg:block" /> Digital Workflow
           </h2>
 
