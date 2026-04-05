@@ -13,10 +13,10 @@ const WorkflowSection = () => {
             work smarter. <br /> Start your free trial today.
           </p>
           <div className="flex flex-row justify-center items-center gap-4 pt-4">
-            <a href="#products" className="inline-flex items-center justify-center bg-white text-[#1B2135] hover:bg-gray-100 hover:text-black focus:text-black font-bold px-8 py-3 rounded-full transition-all">
+            <a href="#products" className="inline-flex items-center justify-center bg-white text-[#1B2135] hover:bg-gray-100 hover:!text-black focus:!text-black font-bold px-8 py-3 rounded-full transition-all">
               Explore Products
             </a>
-            <a href="#pricing" className="inline-flex items-center justify-center border-2 border-white text-white hover:bg-white hover:text-black focus:bg-white focus:text-black active:bg-white active:text-black font-bold px-8 py-3 rounded-full transition-all">
+            <a href="#pricing" className="inline-flex items-center justify-center border-2 border-white text-white hover:bg-white hover:!text-black focus:bg-white focus:!text-black active:bg-white active:!text-black font-bold px-8 py-3 rounded-full transition-all">
               View Pricing
             </a>
           </div>
