@@ -2,7 +2,8 @@
   {
     "productId": 1,
     "productName": "Complete UI/UX Design Course",
-    "productPrice": 49.99,
+    "productPrice": 49,
+    "productBilling": "one-time",
     "productIcon": "https://img.icons8.com/fluency/96/design.png",
     "productBadge": "Best Seller",
     "productDescription": "Master Figma to create stunning user interfaces and seamless user experiences from scratch.",
@@ -15,7 +16,8 @@
   {
     "productId": 2,
     "productName": "Programming Fundamentals Masterclass",
-    "productPrice": 59.99,
+    "productPrice": 29,
+    "productBilling": "mo",
     "productIcon": "https://img.icons8.com/fluency/96/source-code.png",
     "productBadge": "Popular",
     "productDescription": "Start your coding journey with problem-solving skills, logic building, and hands-on Python & C-language exercises.",
@@ -28,7 +30,8 @@
   {
     "productId": 3,
     "productName": "ICT Complete Guide for HSC Students",
-    "productPrice": 29.99,
+    "productPrice": 15,
+    "productBilling": "one-time",
     "productIcon": "https://img.icons8.com/fluency/96/graduation-cap.png",
     "productBadge": "New",
     "productDescription": "Tailored specifically for college HSC students to master the ICT syllabus and ace final board exams.",
@@ -41,7 +44,8 @@
   {
     "productId": 4,
     "productName": "Advanced Graphic Design Bundle",
-    "productPrice": 39.99,
+    "productPrice": 39,
+    "productBilling": "one-time",
     "productIcon": "https://img.icons8.com/fluency/96/pantone.png",
     "productBadge": "Popular",
     "productDescription": "Learn Adobe Illustrator & Photoshop to craft breathtaking logos, branding materials, and illustrations.",
@@ -54,7 +58,8 @@
   {
     "productId": 5,
     "productName": "Video Editing Masterclass",
-    "productPrice": 45.99,
+    "productPrice": 45,
+    "productBilling": "one-time",
     "productIcon": "https://img.icons8.com/fluency/96/video-editing.png",
     "productBadge": "Best Seller",
     "productDescription": "Learn to edit engaging videos with Premiere Pro and After Effects for YouTube, TikTok, and clients.",
@@ -67,7 +72,8 @@
   {
     "productId": 6,
     "productName": "Freelancing Fundamentals",
-    "productPrice": 24.99,
+    "productPrice": 24,
+    "productBilling": "mo",
     "productIcon": "https://img.icons8.com/fluency/96/work-from-home.png",
     "productBadge": "Trending",
     "productDescription": "Start earning online by building a strong profile on Upwork and Fiverr, getting your first clients.",

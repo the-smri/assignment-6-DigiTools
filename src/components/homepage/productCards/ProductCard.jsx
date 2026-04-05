@@ -44,7 +44,10 @@ const ProductCard = ({
             <img src={productData.productIcon} width="50px" alt="" />
             <h2 className="text-2xl font-bold leading-tight min-h-[60px]">{productData.productName}</h2>
             <p className="text-base text-gray-500 min-h-[70px]">{productData.productDescription}</p>
-            <div className="text-3xl font-extrabold text-gray-900 pt-2">${productData.productPrice}</div>
+            <div className="text-3xl font-extrabold text-gray-900 pt-2 pb-2">
+              ${productData.productPrice}
+              <span className="text-lg font-medium text-gray-500 ml-1">/{productData.productBilling}</span>
+            </div>
           </div>
           <ul className="mt-6 flex flex-col gap-2 text-md">
             {productData.productFeatures.map((feature, index) => {
