@@ -1,0 +1,44 @@
+[
+  {
+    "id": "starter",
+    "priceTitle": "Starter",
+    "smallDescription": "Perfect for getting started",
+    "monthlyPrice": 0,
+    "mostPopular": false,
+    "features": [
+      "Access to basic templates",
+      "Up to 5 projects",
+      "Community support"
+    ]
+  },
+  {
+    "id": "pro",
+    "priceTitle": "Pro",
+    "smallDescription": "Best for professionals",
+    "monthlyPrice": 29,
+    "mostPopular": true,
+    "features": [
+      "Everything in Starter",
+      "Unlimited projects",
+      "High-resolution exports",
+      "Priority email support",
+      "Advanced style templates",
+      "Custom branding"
+    ]
+  },
+  {
+    "id": "enterprise",
+    "priceTitle": "Enterprise",
+    "smallDescription": "For teams and businesses",
+    "monthlyPrice": 99,
+    "mostPopular": false,
+    "features": [
+      "Everything in Pro",
+      "Unlimited team members",
+      "API access",
+      "Dedicated account manager",
+      "Custom contract & billing",
+      "SSO & advanced security"
+    ]
+  }
+]

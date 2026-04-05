@@ -1,0 +1,80 @@
+[
+  {
+    "productId": 1,
+    "productName": "AI Writing Pro",
+    "productPrice": 49.99,
+    "productIcon": "https://img.icons8.com/fluency/96/artificial-intelligence.png",
+    "productBadge": "Best Seller",
+    "productDescription": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "productFeatures": [
+      "50+ writing templates",
+      "SEO optimized content",
+      "Custom tone control"
+    ]
+  },
+  {
+    "productId": 2,
+    "productName": "Design Templates Pack",
+    "productPrice": 29.99,
+    "productIcon": "https://cdn-icons-png.flaticon.com/512/3502/3502688.png",
+    "productBadge": "Popular",
+    "productDescription": "Access thousands of ready-to-use design templates for social media, presentations, and marketing.",
+    "productFeatures": [
+      "1000+ design templates",
+      "Fully customizable layouts",
+      "Compatible with major design tools"
+    ]
+  },
+  {
+    "productId": 3,
+    "productName": "Premium Stock Assets",
+    "productPrice": 39.99,
+    "productIcon": "https://img.icons8.com/fluency/96/image-gallery.png",
+    "productBadge": "New",
+    "productDescription": "Download high-resolution images, videos, and graphics for your creative projects.",
+    "productFeatures": [
+      "Unlimited asset downloads",
+      "4K video library",
+      "Royalty-free license"
+    ]
+  },
+  {
+    "productId": 4,
+    "productName": "Automation Workflow Kit",
+    "productPrice": 59.99,
+    "productIcon": "https://img.icons8.com/fluency/96/workflow.png",
+    "productBadge": "Popular",
+    "productDescription": "Automate repetitive tasks and build powerful workflows to boost productivity.",
+    "productFeatures": [
+      "50+ automation workflows",
+      "API integration support",
+      "Drag and drop builder"
+    ]
+  },
+  {
+    "productId": 5,
+    "productName": "Marketing Growth Suite",
+    "productPrice": 79.99,
+    "productIcon": "https://img.icons8.com/fluency/96/bullish.png",
+    "productBadge": "Best Seller",
+    "productDescription": "All-in-one toolkit for marketing campaigns, analytics, and lead generation.",
+    "productFeatures": [
+      "Advanced campaign analytics",
+      "Email marketing automation",
+      "Lead tracking dashboard"
+    ]
+  },
+  {
+    "productId": 6,
+    "productName": "Developer Tools Bundle",
+    "productPrice": 89.99,
+    "productIcon": "https://cdn-icons-png.flaticon.com/512/3502/3502688.png",
+    "productBadge": "New",
+    "productDescription": "A powerful set of tools designed for developers to build, test, and deploy applications faster.",
+    "productFeatures": [
+      "Integrated debugging tools",
+      "Cloud deployment support",
+      "Version control integration"
+    ]
+  }
+]
