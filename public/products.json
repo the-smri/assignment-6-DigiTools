@@ -1,80 +1,80 @@
 [
   {
     "productId": 1,
-    "productName": "AI Writing Pro",
+    "productName": "Complete UI/UX Design Course",
     "productPrice": 49.99,
-    "productIcon": "https://img.icons8.com/fluency/96/artificial-intelligence.png",
+    "productIcon": "https://img.icons8.com/fluency/96/design.png",
     "productBadge": "Best Seller",
-    "productDescription": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "productDescription": "Master Figma to create stunning user interfaces and seamless user experiences from scratch.",
     "productFeatures": [
-      "50+ writing templates",
-      "SEO optimized content",
-      "Custom tone control"
+      "50+ hours of video lessons",
+      "Real-world design projects",
+      "Figma templates included"
     ]
   },
   {
     "productId": 2,
-    "productName": "Design Templates Pack",
-    "productPrice": 29.99,
-    "productIcon": "https://cdn-icons-png.flaticon.com/512/3502/3502688.png",
+    "productName": "Programming Fundamentals Masterclass",
+    "productPrice": 59.99,
+    "productIcon": "https://img.icons8.com/fluency/96/source-code.png",
     "productBadge": "Popular",
-    "productDescription": "Access thousands of ready-to-use design templates for social media, presentations, and marketing.",
+    "productDescription": "Start your coding journey with problem-solving skills, logic building, and hands-on Python & C-language exercises.",
     "productFeatures": [
-      "1000+ design templates",
-      "Fully customizable layouts",
-      "Compatible with major design tools"
+      "Beginner-friendly modules",
+      "Interactive coding drills",
+      "Certificate of completion"
     ]
   },
   {
     "productId": 3,
-    "productName": "Premium Stock Assets",
-    "productPrice": 39.99,
-    "productIcon": "https://img.icons8.com/fluency/96/image-gallery.png",
+    "productName": "ICT Complete Guide for HSC Students",
+    "productPrice": 29.99,
+    "productIcon": "https://img.icons8.com/fluency/96/graduation-cap.png",
     "productBadge": "New",
-    "productDescription": "Download high-resolution images, videos, and graphics for your creative projects.",
+    "productDescription": "Tailored specifically for college HSC students to master the ICT syllabus and ace final board exams.",
     "productFeatures": [
-      "Unlimited asset downloads",
-      "4K video library",
-      "Royalty-free license"
+      "Chapter-wise detailed breakdowns",
+      "Previous year question solutions",
+      "C-Programming & HTML modules"
     ]
   },
   {
     "productId": 4,
-    "productName": "Automation Workflow Kit",
-    "productPrice": 59.99,
-    "productIcon": "https://img.icons8.com/fluency/96/workflow.png",
+    "productName": "Advanced Graphic Design Bundle",
+    "productPrice": 39.99,
+    "productIcon": "https://img.icons8.com/fluency/96/pantone.png",
     "productBadge": "Popular",
-    "productDescription": "Automate repetitive tasks and build powerful workflows to boost productivity.",
+    "productDescription": "Learn Adobe Illustrator & Photoshop to craft breathtaking logos, branding materials, and illustrations.",
     "productFeatures": [
-      "50+ automation workflows",
-      "API integration support",
-      "Drag and drop builder"
+      "Adobe CC master tricks",
+      "Print & digital design theory",
+      "Freelancing guide included"
     ]
   },
   {
     "productId": 5,
-    "productName": "Marketing Growth Suite",
-    "productPrice": 79.99,
-    "productIcon": "https://img.icons8.com/fluency/96/bullish.png",
+    "productName": "Video Editing Masterclass",
+    "productPrice": 45.99,
+    "productIcon": "https://img.icons8.com/fluency/96/video-editing.png",
     "productBadge": "Best Seller",
-    "productDescription": "All-in-one toolkit for marketing campaigns, analytics, and lead generation.",
+    "productDescription": "Learn to edit engaging videos with Premiere Pro and After Effects for YouTube, TikTok, and clients.",
     "productFeatures": [
-      "Advanced campaign analytics",
-      "Email marketing automation",
-      "Lead tracking dashboard"
+      "Timeline and cutting tools",
+      "Color grading and transitions",
+      "Motion graphics basics"
     ]
   },
   {
     "productId": 6,
-    "productName": "Developer Tools Bundle",
-    "productPrice": 89.99,
-    "productIcon": "https://cdn-icons-png.flaticon.com/512/3502/3502688.png",
-    "productBadge": "New",
-    "productDescription": "A powerful set of tools designed for developers to build, test, and deploy applications faster.",
+    "productName": "Freelancing Fundamentals",
+    "productPrice": 24.99,
+    "productIcon": "https://img.icons8.com/fluency/96/work-from-home.png",
+    "productBadge": "Trending",
+    "productDescription": "Start earning online by building a strong profile on Upwork and Fiverr, getting your first clients.",
     "productFeatures": [
-      "Integrated debugging tools",
-      "Cloud deployment support",
-      "Version control integration"
+      "Profile optimization",
+      "Writing winning proposals",
+      "Client communication"
     ]
   }
 ]

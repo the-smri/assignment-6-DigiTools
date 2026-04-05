@@ -34,8 +34,7 @@ function App() {
   // console.log(promiseData)
   // console.log(promiseStep);
   return (
-    
-    <>
+    <div className="max-w-[1280px] mx-auto">
       <Navbar cart={cart}/>
       <Banner/>
       <Stats/>
@@ -62,7 +61,7 @@ function App() {
 
 
       
-    </>
+    </div>
   );
 }
 
