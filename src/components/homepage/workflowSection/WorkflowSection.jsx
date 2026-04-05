@@ -12,13 +12,13 @@ const WorkflowSection = () => {
             Join thousands of professionals who are already using Digitools to
             work smarter. <br /> Start your free trial today.
           </p>
-          <div className="flex flex-row justify-center items-center gap-2">
-            <button className="btn bg-white text-blue-700">
+          <div className="flex flex-row justify-center items-center gap-4 pt-4">
+            <a href="#products" className="btn bg-white text-[#1B2135] hover:bg-gray-100 hover:text-black focus:text-black font-bold border-none px-8 py-3 h-auto min-h-0 rounded-full transition-all">
               Explore Products
-            </button>
-            <button className="btn btn-outline text-white hover:bg-white hover:text-blue-600">
+            </a>
+            <a href="#pricing" className="btn btn-outline border-white text-white hover:bg-white hover:text-black focus:bg-white focus:text-black active:bg-white active:text-black font-bold px-8 py-3 h-auto min-h-0 rounded-full transition-all">
               View Pricing
-            </button>
+            </a>
           </div>
         </div>
       </div>
